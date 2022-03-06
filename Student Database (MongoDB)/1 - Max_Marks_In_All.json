@@ -1,0 +1,22 @@
+[{
+  "_id": 13,
+  "name": "Jessika Dagenais",
+  "scores": [
+    {
+      "score": 90.47179954427436,
+      "type": "exam",
+      "remark": "pass"
+    },
+    {
+      "score": 90.3001402468489,
+      "type": "quiz",
+      "remark": "pass"
+    },
+    {
+      "score": 95.17753772405909,
+      "type": "homework",
+      "remark": "pass"
+    }
+  ],
+  "final_remark": "Pass"
+}]

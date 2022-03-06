@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "621e1617e33408cd85e69db8"
+  },
+  "exam": {
+    "total": 9734.734152,
+    "average": 48.67
+  },
+  "quiz": {
+    "total": 9799.34,
+    "average": 49
+  },
+  "homework": {
+    "total": 13563.7,
+    "average": 67.82
+  }
+}]

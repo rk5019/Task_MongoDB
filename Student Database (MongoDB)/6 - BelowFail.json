@@ -1,0 +1,22 @@
+[{
+  "_id": 0,
+  "name": "aimee Zank",
+  "scores": [
+    {
+      "score": 1.463179736705023,
+      "type": "exam",
+      "remark": "fail"
+    },
+    {
+      "score": 11.78273309957772,
+      "type": "quiz",
+      "remark": "fail"
+    },
+    {
+      "score": 35.8740349954354,
+      "type": "homework",
+      "remark": "fail"
+    }
+  ],
+  "remark": "Fail"
+}]
